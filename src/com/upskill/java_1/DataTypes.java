@@ -7,12 +7,10 @@ public class DataTypes {
 System.out.println("hello, i am Farhana");
 
 
-int a = 10;
-int b = 25;
+int a = 23;
+int b = 30;
 int c = a + b;
 System.out.println(c);
-
-String state = "NY";
 
 System.out.print("New York");
 System.out.print("NY");
